@@ -17,6 +17,7 @@ public class Promedio {
         }
 
         System.out.println("La mejor nota es: " + mejorNota);
+        System.out.println("GRACIAS ");
         scanner.close();
 	}
 
